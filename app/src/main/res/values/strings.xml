@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FantasyWorld</string>
+    <string name="bookstore_name">Fantasy World</string>
+    <string name="adress"> 123 Pilgrim Avenue</string>
+    <string name="postcode_and_city">Melbourne, FL 32904 </string>
+    <string name="country">United States</string>
+    <string name="website">fantasyworld.com</string>
+    <string name="telephone">222 333 444</string>
+    <string name="description">Best place to find your fantasy books!</string>
+    <string name="contentDescriptionBookshelf">There is an image of bookshelf</string>
+    <string name="contentDescriptionBook">There is an image of book</string>
+</resources>
